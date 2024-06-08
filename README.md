@@ -1,6 +1,6 @@
-## RaspberryPi as Access Point (OpenWrt)
-# Access Point configuration
+# RaspberryPi as Access Point (OpenWrt)
+## Access Point configuration
 
-# Pihole Ad-blocking
+## Pihole Ad-blocking
 
-# Zerotier VPN
+## Zerotier VPN
