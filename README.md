@@ -24,4 +24,10 @@ ifconfig
 opkg update
 opkg install zerotier
 ```
+overwrite zerotier config file
+
+```
+/etc/config/zerotier restart
+ifconfig
+```
 
