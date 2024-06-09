@@ -8,6 +8,11 @@ configuration files:
 + /etc/config/dhcp
 + /etc/config/firewall
 
+cp files inside config folder to overwite default configuration files
+```
+/etc/config
+```
+
 Issue: network need to be restarted !
 ```
 /etc/init.d/network restart
