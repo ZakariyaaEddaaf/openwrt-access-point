@@ -18,7 +18,10 @@ Issue: network need to be restarted !
 /etc/init.d/network restart
 ifconfig
 ```
+## Zerotier
 
-## Pihole Ad-blocking
+```
+opkg update
+opkg install zerotier
+```
 
-## Zerotier VPN
